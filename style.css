@@ -1,0 +1,14 @@
+html, body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+    height: 100%;
+    margin: 0;
+  }
+
+.container {
+  height: 50vh; /* Tinggi kontainer sama dengan tinggi viewport */
+  align-items: center; /* Menyelaraskan konten secara vertikal */
+  justify-content: center; /* Menyelaraskan konten secara horizontal */
+}
